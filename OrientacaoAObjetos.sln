@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.Dia1", "OrientacaoAObjetos.Dia1\OrientacaoAObjetos.Dia1.csproj", "{45463C80-CF0F-4BF4-8CA7-1214DA43407D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.interface", "OrientacaoAObjetos.interface\OrientacaoAObjetos.interface.csproj", "{204A0CDD-A5AD-45C0-ABB2-7D45C3120396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45463C80-CF0F-4BF4-8CA7-1214DA43407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45463C80-CF0F-4BF4-8CA7-1214DA43407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45463C80-CF0F-4BF4-8CA7-1214DA43407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45463C80-CF0F-4BF4-8CA7-1214DA43407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204A0CDD-A5AD-45C0-ABB2-7D45C3120396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204A0CDD-A5AD-45C0-ABB2-7D45C3120396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204A0CDD-A5AD-45C0-ABB2-7D45C3120396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204A0CDD-A5AD-45C0-ABB2-7D45C3120396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F98A4DC-661B-42EE-9E05-B2CCC52CFB1C}
+	EndGlobalSection
+EndGlobal

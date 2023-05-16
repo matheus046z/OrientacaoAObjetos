@@ -25,7 +25,5 @@ namespace OrientacaoAObjetos.Dia1 // define um name space
                 return false;
             }
         }
-
-
     }
 }

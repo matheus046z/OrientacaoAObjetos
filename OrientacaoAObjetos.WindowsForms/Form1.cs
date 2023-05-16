@@ -18,10 +18,28 @@ namespace OrientacaoAObjetos.WindowsForms
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonConstrVazio_Click(object sender, EventArgs e)
         {
             Segurado segurado = new Segurado(); // chamou o construtor vazio Segurado()
             MessageBox.Show(segurado.Teste());
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Segurado segurado = new Segurado("Matheus");
+            MessageBox.Show("Nome: " + segurado.Nome);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Segurado segurado = new Segurado(1);
+            MessageBox.Show("id: " + segurado.Id);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Segurado segurado = new Segurado("Matheus", "04792782104");
+            MessageBox.Show("Nome: " + segurado.Nome + "\n" + "CPF: " + segurado.CPF);
         }
     }
 }

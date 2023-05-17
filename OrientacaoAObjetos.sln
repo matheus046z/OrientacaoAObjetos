@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.Dia2", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.WindowsForms", "OrientacaoAObjetos.WindowsForms\OrientacaoAObjetos.WindowsForms.csproj", "{18000D92-262A-4462-8F32-A08B82936D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.Dia3", "OrientacaoAObjetos.Dia3\OrientacaoAObjetos.Dia3.csproj", "{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{18000D92-262A-4462-8F32-A08B82936D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18000D92-262A-4462-8F32-A08B82936D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18000D92-262A-4462-8F32-A08B82936D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

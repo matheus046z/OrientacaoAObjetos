@@ -21,6 +21,7 @@ namespace OrientacaoAObjetos.Dia2
         // O construtor constroi o objeto na memoria
         // injeção de dependencia
         //garbage collector (gerenciador de memoria interno)
+        // é importante criar um construtor vazio, se nao fica obrigatorio sempre passar parametros para o construtor
         public Segurado() // 2o contrutor vazio
         {
 

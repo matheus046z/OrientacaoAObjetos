@@ -22,9 +22,20 @@ namespace OrientacaoAObjetos.WindowsForms
         {
             Cliente cliente = new Cliente(); // construtor vazio
             cliente.Nome = txtNome.Text; //set
-            cliente.CPF = txtCPF.Text; //set
-            MessageBox.Show(cliente.Nome);//get
-            MessageBox.Show(cliente.CPF); // get
+            cliente.CPF = mtxtCPF.Text; //set
+
+            bool cpfValido = Cliente.ValidarCPF(mtxtCPF.Text);
+            
+            if(cpfValido)
+            {
+                MessageBox.Show("CPF  CADASTRADO!\nNome: " + cliente.Nome + "\nCPF: " + cliente.CPF);//get
+            }
+            else
+            {
+                MessageBox.Show("CPF INVÁLIDO!");
+            }
+            
+            
 
             /*
             string nome = txtNome.Text;

@@ -59,14 +59,14 @@
             this.txtNome.Location = new System.Drawing.Point(129, 53);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(89, 20);
-            this.txtNome.TabIndex = 3;
+            this.txtNome.TabIndex = 1;
             // 
             // btnCadastrar
             // 
             this.btnCadastrar.Location = new System.Drawing.Point(76, 140);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(153, 23);
-            this.btnCadastrar.TabIndex = 5;
+            this.btnCadastrar.TabIndex = 3;
             this.btnCadastrar.Text = "Cadastrar";
             this.btnCadastrar.UseVisualStyleBackColor = true;
             this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
@@ -77,7 +77,7 @@
             this.mtxtCPF.Mask = "000.000.000-00";
             this.mtxtCPF.Name = "mtxtCPF";
             this.mtxtCPF.Size = new System.Drawing.Size(89, 20);
-            this.mtxtCPF.TabIndex = 6;
+            this.mtxtCPF.TabIndex = 2;
             // 
             // RevisaoConstrutores
             // 

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.WindowsF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.Dia3", "OrientacaoAObjetos.Dia3\OrientacaoAObjetos.Dia3.csproj", "{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoAObjetos.Dia4", "OrientacaoAObjetos.Dia4\OrientacaoAObjetos.Dia4.csproj", "{A6B798D9-B65B-4CB3-B47E-C471CB7E64E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E26A3FD1-B03E-4D72-B1BE-4AAAE9020CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B798D9-B65B-4CB3-B47E-C471CB7E64E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B798D9-B65B-4CB3-B47E-C471CB7E64E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B798D9-B65B-4CB3-B47E-C471CB7E64E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B798D9-B65B-4CB3-B47E-C471CB7E64E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
